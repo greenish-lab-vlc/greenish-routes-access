@@ -22,8 +22,6 @@ To request access, follow these steps:
 ## 🛠 Alternative Access Methods
 If you cannot submit an issue or prefer another method, you can:
 - **Send an email** to `eric.meneses@uv.es` with your GitHub username and reason for request.
-- **Join our community discussion** on [GitHub Discussions](../../discussions).
-
 ---
 
 ## ❓ Frequently Asked Questions (FAQ)
